@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:noNamespaceSchemaLocation="http://www.aviationweather.gov/static/adds/schema/metar1_2.xsd">
+    <request_index>522149762</request_index>
+    <data_source name="metars" />
+    <request type="retrieve" />
+    <errors />
+    <warnings />
+    <time_taken_ms>10</time_taken_ms>
+    <data num_results="7">
+        <METAR>
+            <raw_text>KBKF 251958Z 05004KT 10SM BKN030 BKN180 19/08 A3037 RMK AO2A SLP227 T01940078</raw_text>
+            <station_id>KBKF</station_id>
+            <observation_time>2022-06-25T19:58:00Z</observation_time>
+            <latitude>39.72</latitude>
+            <longitude>-104.75</longitude>
+            <temp_c>19.4</temp_c>
+            <dewpoint_c>7.8</dewpoint_c>
+            <wind_dir_degrees>50</wind_dir_degrees>
+            <wind_speed_kt>4</wind_speed_kt>
+            <visibility_statute_mi>10.0</visibility_statute_mi>
+            <altim_in_hg>30.369095</altim_in_hg>
+            <sea_level_pressure_mb>1022.7</sea_level_pressure_mb>
+            <quality_control_flags>
+                <auto_station>TRUE</auto_station>
+            </quality_control_flags>
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="3000" />
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="18000" />
+            <flight_category>MVFR</flight_category>
+            <metar_type>METAR</metar_type>
+            <elevation_m>1703.0</elevation_m>
+        </METAR>
+        <METAR>
+            <raw_text>KDEN 251953Z VRB03KT 10SM BKN038 BKN120 19/08 A3036 RMK AO2 SLP218 T01890083 $</raw_text>
+            <station_id>KDEN</station_id>
+            <observation_time>2022-06-25T19:53:00Z</observation_time>
+            <latitude>39.85</latitude>
+            <longitude>-104.65</longitude>
+            <temp_c>18.9</temp_c>
+            <dewpoint_c>8.3</dewpoint_c>
+            <wind_dir_degrees>0</wind_dir_degrees>
+            <wind_speed_kt>3</wind_speed_kt>
+            <visibility_statute_mi>10.0</visibility_statute_mi>
+            <altim_in_hg>30.360237</altim_in_hg>
+            <sea_level_pressure_mb>1021.8</sea_level_pressure_mb>
+            <quality_control_flags>
+                <auto_station>TRUE</auto_station>
+                <maintenance_indicator_on>TRUE</maintenance_indicator_on>
+            </quality_control_flags>
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="3800" />
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="12000" />
+            <flight_category>VFR</flight_category>
+            <metar_type>METAR</metar_type>
+            <elevation_m>1656.0</elevation_m>
+        </METAR>
+        <METAR>
+            <raw_text>KBKF 251858Z 00000KT 10SM BKN030 BKN180 18/07 A3040 RMK AO2A SLP242 T01830074</raw_text>
+            <station_id>KBKF</station_id>
+            <observation_time>2022-06-25T18:58:00Z</observation_time>
+            <latitude>39.72</latitude>
+            <longitude>-104.75</longitude>
+            <temp_c>18.3</temp_c>
+            <dewpoint_c>7.4</dewpoint_c>
+            <wind_dir_degrees>0</wind_dir_degrees>
+            <wind_speed_kt>0</wind_speed_kt>
+            <visibility_statute_mi>10.0</visibility_statute_mi>
+            <altim_in_hg>30.398623</altim_in_hg>
+            <sea_level_pressure_mb>1024.2</sea_level_pressure_mb>
+            <quality_control_flags>
+                <auto_station>TRUE</auto_station>
+            </quality_control_flags>
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="3000" />
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="18000" />
+            <flight_category>MVFR</flight_category>
+            <metar_type>METAR</metar_type>
+            <elevation_m>1703.0</elevation_m>
+        </METAR>
+        <METAR>
+            <raw_text>KDEN 251853Z 08005KT 10SM BKN032 BKN042 18/08 A3039 RMK AO2 SLP232 T01780078 $</raw_text>
+            <station_id>KDEN</station_id>
+            <observation_time>2022-06-25T18:53:00Z</observation_time>
+            <latitude>39.85</latitude>
+            <longitude>-104.65</longitude>
+            <temp_c>17.8</temp_c>
+            <dewpoint_c>7.8</dewpoint_c>
+            <wind_dir_degrees>80</wind_dir_degrees>
+            <wind_speed_kt>5</wind_speed_kt>
+            <visibility_statute_mi>10.0</visibility_statute_mi>
+            <altim_in_hg>30.389763</altim_in_hg>
+            <sea_level_pressure_mb>1023.2</sea_level_pressure_mb>
+            <quality_control_flags>
+                <auto_station>TRUE</auto_station>
+                <maintenance_indicator_on>TRUE</maintenance_indicator_on>
+            </quality_control_flags>
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="3200" />
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="4200" />
+            <flight_category>VFR</flight_category>
+            <metar_type>METAR</metar_type>
+            <elevation_m>1656.0</elevation_m>
+        </METAR>
+        <METAR>
+            <raw_text>KCFO 251847Z 01005KT 10SM OVC030 18/08 A3040</raw_text>
+            <station_id>KCFO</station_id>
+            <observation_time>2022-06-25T18:47:00Z</observation_time>
+            <latitude>39.78</latitude>
+            <longitude>-104.55</longitude>
+            <temp_c>18.0</temp_c>
+            <dewpoint_c>8.0</dewpoint_c>
+            <wind_dir_degrees>10</wind_dir_degrees>
+            <wind_speed_kt>5</wind_speed_kt>
+            <visibility_statute_mi>10.0</visibility_statute_mi>
+            <altim_in_hg>30.398623</altim_in_hg>
+            <sky_condition sky_cover="OVC" cloud_base_ft_agl="3000" />
+            <flight_category>MVFR</flight_category>
+            <metar_type>METAR</metar_type>
+            <elevation_m>1672.0</elevation_m>
+        </METAR>
+        <METAR>
+            <raw_text>KBKF 251758Z COR 00000KT 10SM SCT023 BKN030 16/07 A3042 RMK AO2A SLP249 60000 T01600070 10162 20112 50000 COR 1811</raw_text>
+            <station_id>KBKF</station_id>
+            <observation_time>2022-06-25T17:58:00Z</observation_time>
+            <latitude>39.72</latitude>
+            <longitude>-104.75</longitude>
+            <temp_c>16.0</temp_c>
+            <dewpoint_c>7.0</dewpoint_c>
+            <wind_dir_degrees>0</wind_dir_degrees>
+            <wind_speed_kt>0</wind_speed_kt>
+            <visibility_statute_mi>10.0</visibility_statute_mi>
+            <altim_in_hg>30.41929</altim_in_hg>
+            <sea_level_pressure_mb>1024.9</sea_level_pressure_mb>
+            <quality_control_flags>
+                <corrected>TRUE</corrected>
+                <auto_station>TRUE</auto_station>
+            </quality_control_flags>
+            <sky_condition sky_cover="SCT" cloud_base_ft_agl="2300" />
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="3000" />
+            <flight_category>MVFR</flight_category>
+            <three_hr_pressure_tendency_mb>0.0</three_hr_pressure_tendency_mb>
+            <maxT_c>16.2</maxT_c>
+            <minT_c>11.2</minT_c>
+            <metar_type>SPECI</metar_type>
+            <elevation_m>1703.0</elevation_m>
+        </METAR>
+        <METAR>
+            <raw_text>KDEN 251753Z VRB06KT 10SM BKN032 BKN041 17/07 A3040 RMK AO2 SLP235 T01720072 10172 20117 50002 $</raw_text>
+            <station_id>KDEN</station_id>
+            <observation_time>2022-06-25T17:53:00Z</observation_time>
+            <latitude>39.85</latitude>
+            <longitude>-104.65</longitude>
+            <temp_c>17.2</temp_c>
+            <dewpoint_c>7.2</dewpoint_c>
+            <wind_dir_degrees>0</wind_dir_degrees>
+            <wind_speed_kt>6</wind_speed_kt>
+            <visibility_statute_mi>10.0</visibility_statute_mi>
+            <altim_in_hg>30.398623</altim_in_hg>
+            <sea_level_pressure_mb>1023.5</sea_level_pressure_mb>
+            <quality_control_flags>
+                <auto_station>TRUE</auto_station>
+                <maintenance_indicator_on>TRUE</maintenance_indicator_on>
+            </quality_control_flags>
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="3200" />
+            <sky_condition sky_cover="BKN" cloud_base_ft_agl="4100" />
+            <flight_category>VFR</flight_category>
+            <three_hr_pressure_tendency_mb>0.2</three_hr_pressure_tendency_mb>
+            <maxT_c>17.2</maxT_c>
+            <minT_c>11.7</minT_c>
+            <metar_type>METAR</metar_type>
+            <elevation_m>1656.0</elevation_m>
+        </METAR>
+    </data>
+</response>
